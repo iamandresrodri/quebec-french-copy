@@ -38,7 +38,7 @@ Once it's installed, ask Claude something like:
 
 **No code (Claude.ai or the Claude app)**
 1. Click the green **Code** button at the top of this page, then **Download ZIP**.
-2. In Claude, go to **Settings > Capabilities > Skills** and upload the ZIP.
+2. Upload the ZIP in the Skills section of your Claude settings.
 3. Start a new chat and paste the copy you want adapted.
 
 **Claude Code**
